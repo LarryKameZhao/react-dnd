@@ -22010,6 +22010,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["lodash", "npm:4.17.20"]
           ],
           "linkType": "HARD",
+        }],
+        ["npm:4.17.21", {
+          "packageLocation": "./.yarn/cache/lodash-npm-4.17.21-6382451519-4983720b9a.zip/node_modules/lodash/",
+          "packageDependencies": [
+            ["lodash", "npm:4.17.21"]
+          ],
+          "linkType": "HARD",
         }]
       ]],
       ["lodash.clonedeep", [
@@ -26717,7 +26724,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["gatsby-source-filesystem", "virtual:e1e5e5f16941c4ee39f3320d4cfa49fc95b0e947f7c40f2997c4caea9ea68da4436c3864bfd17ad67608a933cae8acb6dd79048df8de3112a54f962cbd507d29#npm:2.11.1"],
             ["gatsby-transformer-remark", "virtual:e1e5e5f16941c4ee39f3320d4cfa49fc95b0e947f7c40f2997c4caea9ea68da4436c3864bfd17ad67608a933cae8acb6dd79048df8de3112a54f962cbd507d29#npm:2.16.0"],
             ["gatsby-transformer-sharp", "virtual:e1e5e5f16941c4ee39f3320d4cfa49fc95b0e947f7c40f2997c4caea9ea68da4436c3864bfd17ad67608a933cae8acb6dd79048df8de3112a54f962cbd507d29#npm:2.12.0"],
-            ["lodash", "npm:4.17.20"],
+            ["lodash", "npm:4.17.21"],
             ["npm-run-all", "npm:4.1.5"],
             ["prettier", "npm:2.2.1"],
             ["prismjs", "npm:1.23.0"],
@@ -26771,7 +26778,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["faker", "npm:5.4.0"],
             ["gulp", "npm:4.0.2"],
             ["immutability-helper", "npm:3.1.1"],
-            ["lodash", "npm:4.17.20"],
+            ["lodash", "npm:4.17.21"],
             ["npm-run-all", "npm:4.1.5"],
             ["prop-types", "npm:15.7.2"],
             ["react", "npm:17.0.1"],
@@ -26811,7 +26818,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["faker", "npm:5.4.0"],
             ["gulp", "npm:4.0.2"],
             ["immutability-helper", "npm:3.1.1"],
-            ["lodash", "npm:4.17.20"],
+            ["lodash", "npm:4.17.21"],
             ["npm-run-all", "npm:4.1.5"],
             ["react", "npm:17.0.1"],
             ["react-dnd", "virtual:7b71f47ded5886fc1def2de8946e0ca48b1e5ac2847fd3e4970b7539e6f69859f16438f62db2d25d065d58c64f6b5921b555f396cc9220799d98b296b63dea31#workspace:packages/react-dnd"],
@@ -26844,7 +26851,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["faker", "npm:5.4.0"],
             ["gulp", "npm:4.0.2"],
             ["immutability-helper", "npm:3.1.1"],
-            ["lodash", "npm:4.17.20"],
+            ["lodash", "npm:4.17.21"],
             ["npm-run-all", "npm:4.1.5"],
             ["prop-types", "npm:15.7.2"],
             ["react", "npm:17.0.1"],
@@ -26881,7 +26888,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["faker", "npm:5.4.0"],
             ["gulp", "npm:4.0.2"],
             ["immutability-helper", "npm:3.1.1"],
-            ["lodash", "npm:4.17.20"],
+            ["lodash", "npm:4.17.21"],
             ["npm-run-all", "npm:4.1.5"],
             ["react", "npm:17.0.1"],
             ["react-dnd", "virtual:7b71f47ded5886fc1def2de8946e0ca48b1e5ac2847fd3e4970b7539e6f69859f16438f62db2d25d065d58c64f6b5921b555f396cc9220799d98b296b63dea31#workspace:packages/react-dnd"],
